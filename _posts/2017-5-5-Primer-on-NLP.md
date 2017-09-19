@@ -1,0 +1,14 @@
+---
+layout: post
+title: A Primer on Natural Language Processing
+---
+
+Ernest Hemingway once famously wrote, “There is nothing to writing. All you do is sit down at a typewriter and bleed.” Well, Mr. Hemingway, it’s about to become a whole lot easier than that.
+
+New methods in Natural Language Processing (NLP) have ushered in breakthrough capabilities in capturing the semantic meaning of text. In the past, traditional models using simpler vectorization techniques were able to roughly identify important sections of a passage by keeping tabs on repeated words and phrases. Recently, however, the introduction of Long Short-Term Memory (LSTM) architectures to recurrent neural networks (RNN) have allowed contemporary models to retain information across inputs, essentially allowing for the interpretation of context in a given word, sentence, and/or passage.
+
+This is a considerable breakthrough in the field of NLP, which has arguably been a more difficult area of machine learning research compared to that of, say, Computer Vision, where the inputs (i.e. images) are comprised of a specific configuration of pixels with unequivocal values denoting brightness and color. In human-spoken language, however, the inputs (i.e. sentences) carry nuance and can vary wildly in meaning depending on the context of the passage. Given this added layer of complexity, the capability of these new types of neural networks to capture the sophisticated nuance of text represents a new and exciting frontier of NLP research.
+
+Accordingly, Natural Language Processing is receiving a lot of attention in industry at the moment, with tech giants Apple (Siri), Microsoft (Cortana), Google (Now), Amazon (Echo), and Facebook (M) leading the way with heavy investments into their respective text and speech interface platforms. Messenger apps, such as WeChat, LINE, and KakaoTalk are also entering the playing field with new text-initiated services. And, additionally, new startups and existing businesses across all industries are exploring the viability of chatbots to automate text and speech-driven processes.
+
+The value proposition of NLP is clear -- summarization techniques will allow for quicker processing of information, natural language generation will make writing pieces - journalistic or otherwise - easier, and text/speech systems will lead to smoother interactions between any combination of man and machine. The bottom line is that this new technology will save us immense amounts of time and offer a greater level of convenience than ever before. And though it feels like there are other breakthroughs in NLP that are still waiting to happen, we are in an age where new advances in research are integrated into the products we use virtually immediately - and we can confidently expect to begin to use these advances soon.

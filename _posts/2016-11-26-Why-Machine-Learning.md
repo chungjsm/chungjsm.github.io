@@ -1,0 +1,15 @@
+---
+layout: post
+title: Why Machine Learning?
+---
+
+The macroeconomist Robert Gordon (whose Macroeconomics course I took at Northwestern) gave this 2013 TED Talk, in which he posits that economic growth in the United States may be close to an end. His reasoning revolves around four economic “headwinds” that he believes are hindering the US:  demographics, education, debt, and inequality. His conclusion, based on research, is that even if US innovation, which continues to spur most of our economic growth, is as powerful as it has been in the past, the resulting growth will be only half of what we have experienced in recent history. Furthermore, he says that if future innovation proves less powerful than that of the past, then this growth will even be weaker – perhaps even negative.
+
+If this is the case, then it goes without saying that we are in serious need of significant reform in social and educational policy, and also in need of some groundbreaking innovation. But the question is… from where?
+
+
+Elon Musk, the CEO of Tesla Motors and SpaceX, famously determined five areas that he thought would have the most effect on the future of humanity. These areas were 1) sustainable energy, 2) the internet, 3) making life multi-planetary, 4) artificial intelligence, and 5) rewriting genetics. Musk has stayed away from genetic engineering due to ethical issues surrounding the field, but has been quite active in founding companies with considerable success in the other areas – Tesla Motors and Solar City in sustainable energy, Zip2 and PayPal in the internet, and SpaceX in space exploration. With artificial intelligence, Musk has expressed some fear, stating that it may be akin to “summoning the demon”, and has founded OpenAI, a research non-profit that “aims to carefully promote and develop friendly AI in such a way as to benefit, rather than harm, humanity as a whole”. A few other notable people, namely Bill Gates and Stephen Hawking, have also expressed fear regarding AI. But at the same time, new developments (read: the resurgence of neural networks, DeepMind’s AlphaGo, self-driving cars) in machine learning have the world excited about the potential of the field to change both the current technological and economic landscape.
+
+So, where does that leave us?
+
+Following Elon Musk’s intuition, I, too, believe that AI has an incredible amount of potential to change the world for the better. Advancements in computer vision and natural language processing (NLP) seem to be slowly creeping into our daily lives on different websites and mobile applications; research is currently being conducted to see how machine learning can aid in healthcare domains such as drug discovery and medical imaging. It’s definitely an exciting time to be involved with artificial intelligence. And as someone who has benefited from the innovative and entrepreneurial spirit of those that came before me, it’s also incredibly motivating to try and continue the trend of American innovation and prosperity that we’ve enjoyed in the past.
